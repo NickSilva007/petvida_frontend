@@ -1,0 +1,10 @@
+{
+  "description": "Manage pet care seamlessly with features for client registration, pet tracking, service scheduling, and appointment management tailored for pet owners.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
