@@ -51,14 +51,14 @@ export function AccountScreen({
       <div className="auth-visual">
         <button className="public-brand inverse" onClick={onBack}>
           <span className="brand-mark">🐾</span>
-          <span>Casa do Bicho<small>Pet care</small></span>
+          <span>Pet Vida<small>Pet care</small></span>
         </button>
         <div>
           <span className="landing-eyebrow">BEM-VINDO À NOSSA CASA</span>
           <h2>Cuidar ficou ainda mais simples.</h2>
           <p>Cadastre seus dados, seus pets e organize os próximos cuidados em um só lugar.</p>
         </div>
-        <small>Casa do Bicho · Pet care</small>
+        <small>Pet Vida · Pet care</small>
       </div>
       <div className="auth-content">
         <button className="back-auth" onClick={onBack}>← Voltar para o site</button>
@@ -359,7 +359,7 @@ export function PetShopPortal({
     <div className="client-shell">
       <header className="client-header">
         <button className="public-brand" onClick={() => { setPage("overview"); setSelectedPet(null); }}>
-          <span className="brand-mark">🐾</span><span>Casa do Bicho<small>Área do cliente</small></span>
+          <span className="brand-mark">🐾</span><span>Pet Vida<small>Área do cliente</small></span>
         </button>
         <nav>
           {([

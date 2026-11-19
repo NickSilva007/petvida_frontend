@@ -1,4 +1,4 @@
-# PetVida Frontend
+# Pet Vida Frontend
 
 Frontend em React, TypeScript e Vite para o sistema de agendamentos do pet shop.
 

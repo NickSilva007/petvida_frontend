@@ -1,5 +1,7 @@
 {
-  "description": "Manage pet care seamlessly with features for client registration, pet tracking, service scheduling, and appointment management tailored for pet owners.",
+  "title": "Pet Vida | Cuidado para pets",
+  "language": "pt-BR",
+  "description": "Pet Vida: cadastre seus pets, consulte serviços e agende cuidados para seus companheiros.",
   "robots": {
     "index": false
   },
